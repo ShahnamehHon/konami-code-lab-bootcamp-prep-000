@@ -13,7 +13,8 @@ function init() {
         alert("Done");
         index = 0;
       } 
-      } else {
+      } 
+      else {
       index = 0;
       }
     
