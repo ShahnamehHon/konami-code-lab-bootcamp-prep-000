@@ -12,8 +12,8 @@ function init() {
       if(index == code.length){
         alert("Done");
         index = 0;
+      } else {
+      index = 0;
       }
-   }
-  },false);
-
-}
+    
+  
